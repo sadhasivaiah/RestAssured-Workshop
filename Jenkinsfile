@@ -12,5 +12,4 @@ pipeline {
                 echo "This is 2nd stage"
             }
         }
-        
-}
+ }
